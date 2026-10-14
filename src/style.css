@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@theme {
+  --color-midnight: #0b1026; /* background */
+  --color-snow: #f8fafc; /* text */
+  --color-amber: #fbbf24; /* accent */
+
+  --font-poppins: "Poppins", sans-serif;
+  --font-inter: "Inter", sans-serif;
+}
